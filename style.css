@@ -1,0 +1,167 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
+html, body, .wszystko {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: Roboto;
+}
+.re3 {
+    padding-top: 0.4%;
+}
+
+.baner {
+    width: 100%;
+    height: auto;
+    z-index: 999;
+    border: none;
+    outline: 0;
+    background: #f8f8f8;
+    margin-bottom: 6px;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, .1), 0 2px 4px -1px rgba(0, 0, 0, .06);
+}
+
+
+.container {
+    background-color: #f8f8f8;
+    height: 7%;
+    margin-left: 20%;
+    margin-right: 20%;
+    box-sizing: border-box;
+}
+
+.lewy {
+    height: 100%;
+    width: 20%;
+    background-color: #ffffff;
+    float: left;
+}
+
+.prawy {
+    height: 100%;
+    width: 20%;
+    background-color: #ffffff;
+    float: left;
+}
+
+.srodkowy {
+    height: 100%;
+    width: 60%;
+    background-color: #ffffff;
+    float: left;
+}
+
+.ocena {
+    background-color: green;
+    color: white;
+    text-align: center;
+    height: 250px;
+    width: 150px;
+    border: solid black;
+    float: right;
+}
+
+.liczba {
+    font-size: 650%;
+    text-align: center;
+}
+
+.calarecenzja {
+    padding-bottom: 1%;
+    margin-right: 15%;
+    font-size: 120%;
+    border-bottom: black solid;
+}
+
+.tytul {
+    margin-right: 15%;
+}
+
+.okladkare3 {
+    float: left;
+    margin-top: 47%;
+    margin-left: -2%;
+    border: black solid;
+
+}
+
+.zdjecie1, .zdjecie2, .zdjecie3, .zdjecie4 {
+    width: 200px;
+    height: 150px;
+    float: left;
+}
+
+.zdjecie1, .zdjecie2, .zdjecie3 {
+    padding-right: 4%;
+}
+
+.re31, .re32, .re33, .re34 {
+    border: solid black;
+    width: 200px;
+    height: 150px;
+    margin-top: 4%; 
+}
+
+.linia {
+    clear: both;
+    border-bottom: black solid;
+    padding-top: 2%;
+    width: 85%;
+    margin-bottom: 10px; 
+}
+
+.komentarze {
+    clear: both; 
+    margin-top: 10px;
+}
+
+.labely {
+    font-size: 150%;
+}
+
+.komentarz {
+    height: 5em;
+    width: 50%;
+}
+
+.fancyprzycisk {
+    border-radius: 10px;
+    border: black solid;
+}
+
+
+.komentarzbaza {
+    width: 85%;
+    border-bottom: black solid;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    word-wrap: break-word;
+    float: left;
+}
+
+.malaczcionka {
+    font-size: 50%;
+    display: inline;
+}
+
+.czcionka {
+    font-size: 150%;
+}
+
+.ukryty {
+    display: none;
+}
+
+.linian {
+    clear: both;
+    border-bottom: white solid;
+    padding-top: 2%;
+    width: 85%;
+    margin-bottom: 10px; 
+}
+
+#poprzednia-strona {
+    margin-left: 30%;
+
+}
